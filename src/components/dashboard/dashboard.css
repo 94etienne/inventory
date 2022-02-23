@@ -1,0 +1,12 @@
+.content-wrapper{
+    margin-top: 60px;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+.link:hover{
+    text-decoration: none;
+}
